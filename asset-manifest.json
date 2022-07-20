@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gmail-clone-frontend/static/css/main.865b9011.css",
+    "main.js": "/Gmail-clone-frontend/static/js/main.7aa3f3d6.js",
+    "static/media/gmail-logo.png": "/Gmail-clone-frontend/static/media/gmail-logo.73f95a4e5b02c0167564.png",
+    "static/media/gmail.svg": "/Gmail-clone-frontend/static/media/gmail.a9ea37fa450dad3dca714631bf33d28d.svg",
+    "index.html": "/Gmail-clone-frontend/index.html",
+    "main.865b9011.css.map": "/Gmail-clone-frontend/static/css/main.865b9011.css.map",
+    "main.7aa3f3d6.js.map": "/Gmail-clone-frontend/static/js/main.7aa3f3d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.865b9011.css",
+    "static/js/main.7aa3f3d6.js"
+  ]
+}
